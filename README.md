@@ -19,8 +19,8 @@ In this repository, the stakeholders will be the Medium audience who reads the a
 ## Proposed questions
 The main goal of the project is propose at least 3 questions and answer them based on Aibnb datasets.
 The proposed questions are:
-1. Which are the factors that dertermine the price of an airbnb? Location, commodities, etc.
-2. Which are the most common amenities offered in Airbnb.
+1. Which are the factors that dertermine the price of an Airbnb listing?
+2. Which are the most common amenities offered in Airbnb?
 3. How is airbnb demand over the year? Which day of the week has more demand?
 
 ## Files description
